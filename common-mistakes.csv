@@ -1,6 +1,12 @@
+# Lines starting with the # sign are ignored
+# 1st row in a block is the _wrong_ text
+# all following rows in a block are correct / accepted answers
+# blocks are separated by empty lines
+
 Nobody will be at home when the delivery arrive.
 Nobody will be at home when the delivery arrives.
 Nobody will be at home when the deliveries arrive.
 
 Could you plan order something, please?
 Could you plan to order something, please?
+
