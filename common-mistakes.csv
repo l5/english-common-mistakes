@@ -1,7 +1,7 @@
 # Lines starting with the # sign are ignored
 # 1st row in a block is the _wrong_ text
 # all following rows in a block are correct / accepted answers
-# blocks are separated by empty lines
+# blocks are separated by empty lines or lines with only a "-" character (dash)
 -
 Nobody will be at home when the delivery arrive.
 Nobody will be at home when the delivery arrives.
