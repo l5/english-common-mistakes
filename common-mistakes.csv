@@ -1,0 +1,863 @@
+# Lines starting with the # sign are ignored
+# 1st row in a block is the _wrong_ text
+# all following rows in a block are correct / accepted answers
+# blocks are separated by empty lines or lines with only a "-" character (dash)
+-
+Nobody will be at home when the delivery arrive.
+Nobody will be at home when the delivery arrives.
+Nobody will be at home when the deliveries arrive.
+-
+Could you plan order something, please?
+Could you plan to order something, please?
+-
+Can she come and pick up pretzel?
+Can she come and pick up pretzels?
+Can she come and pick up the pretzel?
+Can she come and pick up a pretzel?
+-
+We can delivery stuff to the market!
+We can deliver stuff to the market!
+-
+You can pick up bread and drink at our house when we are not here.
+You can pick up bread and drinks at our house when we are not here.
+-
+Probably will be busy on Sunday.
+Probably it will be busy on Sunday.
+Probably you will be busy on Sunday.
+Probably we will be busy on Sunday.
+Probably I will be busy on Sunday.
+Probably he will be busy on Sunday.
+Probably she will be busy on Sunday.
+-
+I'll try don't use your bbq!
+I'll try to not use your bbq!
+-
+Nobody at our home next Sunday.
+Nobody will be at our home next Sunday.
+Nobody is at our home next Sunday.
+-
+You ordered for next week right?
+You ordered for next week, right?
+-
+I does not like it.
+I do not like it.
+-
+I can delivery tonight!
+I can deliver tonight!
+-
+We have meeting tomorrow?
+Do we have a meeting tomorrow?
+-
+I can do lunch support Sunday.
+I can do lunch support on Sunday.
+-
+It's okay if we move our study session for next week?
+Is it okay if we move our study session to next week?
+-
+I prefer focus in this for now.
+I prefer to focus on this for now.
+-
+This morning I helped Michael to make sure he will fine at lunch.
+This morning I helped Michael to make sure he will be fine at lunch.
+This morning I helped Michael to make sure that he will be fine at lunch.
+-
+I got a delivery too.
+I got a delivery, too.
+-
+I went there and we finish the task together.
+I went there and we finished the task together.
+-
+You think you can help me tomorrow?
+Do you think you can help me tomorrow?
+-
+This screens doesn't work.
+This screen doesn't work.
+These screens don't work.
+These screens do not work.
+This screen does not work.
+-
+I doesn't like it so much.
+I don't like it so much.
+-
+You want ice cream?
+Do you want ice cream?
+-
+I can not found it.
+I could not find it.
+I couldn't find it.
+I cannot find it.
+-
+I dropped the parcel at the post office and buy stamps.
+I dropped the parcel at the post office and bought stamps.
+-
+I will do it in a couple minute.
+I will do it in a couple of minutes.
+-
+Where is the scissors?
+Where are the scissors?
+-
+First, I went to the post office, and then I go home.
+First, I went to the post office, and then I went home.
+First, I go to the post office, and then I go home.
+First, I went to the post office, and then I went back home.
+-
+I think I not in the position that I notice my mistake yet.
+I think I am not in the position to notice my mistake yet.
+I think I am not in the position that I notice my mistake yet.
+I think I'm not in the position to notice my mistake yet.
+I think I'm not in the position that I notice my mistake yet.
+-
+Even she is native speaker, she use wrong verb as well.
+Even if she is a native speaker, she uses wrong verbs as well.
+Even if she is a native speaker, she uses a wrong verb as well.
+-
+I have the feeling that he doesn't full at all.
+I have the feeling that he isn't full at all.
+I have the feeling he isn't full at all.
+-
+Write it down that how many words you can remember.
+Write down how many words you can remember.
+-
+This guy has to solved it.
+This guy has to solve it.
+-
+Even it does not happen yet...
+Even if it does not happen yet...
+-
+He said, he think about the operation.
+He said, he thinks about the operation.
+He said, he would think about the operation.
+-
+This is an example of how you reflection.
+This is an example of how you reflect.
+-
+You should go back and reflex what you have learnt.
+You should go back and reflect about what you have learnt.
+-
+When he goes back home, he think about that.
+When he goes back home, he thinks about that.
+-
+When the emergency has happened, he pull the process out from his memory.
+When the emergency has happened, he pulls the process out from his memory.
+-
+I have three shop in my mind.
+I have three shops in my mind.
+-
+Have the ham arrived today?
+Has the ham arrived today?
+-
+New Zealand is the highest rate of Asthma patient in the world.
+New Zealand has the highest rate of Asthma patients in the world.
+-
+From the news said that there was an accident.
+According to the news, there was an accident.
+The news said, there was an accident.
+-
+Especially kids from the age of two to fourteen years has trouble understanding quantum physics.
+Especially kids from the age of two to fourteen years have trouble understanding quantum physics.
+-
+This population group has a high rate diagnosed asthma.
+This population group has a high rate of diagnosed asthma.
+-
+When they compare with other ethics, the highest is Maori and Pacifics.
+Compared with other ethnicities, the highest numbers are found among Maori and Pasifica.
+-
+According to the council, the building has a lot of defect.
+According to the council, the building has many defects.
+-
+The building need to demolished.
+The building needs to be demolished.
+-
+They asked the expert how to fixed the defect.
+They asked the expert how to fix the defect.
+-
+They suggest to sue the council that they do not follow the rule for handing out parking tickets.
+They suggest to sue the council for not following the rules for handing out parking tickets.
+-
+Instead of demolish the building, they hid the problems.
+Instead of demolishing the building, they hid the problems.
+-
+I have sent you an email yesterday. Can you check if you receive it, please?
+I have sent you an email yesterday. Can you check if you have received it, please?
+-
+Karl, instead of working, he talked.
+Instead of working, Karl chatted.
+Karl chatted instead of working.
+-
+Instead of demolished the building, the asked the expert how to fixed the building.
+Instead of demolishing the building, they asked the expert how to fix the building.
+-
+Their cat just stay there.
+Their cat just stays there.
+Their cats just stay there.
+-
+She pick it up at 9:45 am.
+She picks it up at 9:45 am.
+She will pick it up at 9:45 am.
+-
+Uranus really far away.
+Uranus is really far away.
+-
+Uranus near Saturn.
+Uranus is near Saturn.
+-
+'Pretzel' is a funny name. Some they call 'Bretzel' or 'Pretzl'.
+'Pretzel' is a funny name. Some say 'Bretzel' or 'Pretzl'.
+'Pretzel' is a funny name. Some call it 'Bretzel' or 'Pretzl'.
+-
+They got light from sun.
+They got light from the sun.
+They got sunlight.
+-
+After explode of wastewater plant last year, the town was a bit smelly.
+After the explosion of the wastewater plant last year, the town was a bit smelly.
+After the wastewater plant exploded last year, the town was a bit smelly.
+-
+The residents who live around wastewater plant has concerned about health issue.
+The residents who live around the wastewater plant are concerned about health issues.
+The residents who live around the wastewater plant have concerns about health issues.
+-
+The smells really strong.
+The smell is really strong.
+It smells really strong.
+The smells are really strong.
+-
+The council had checked and investigate.
+The council had checked and investigated.
+The council had checked and investigates.
+-
+They fou low levels of chemicals.
+They found low levels of chemicals.
+-
+They found low level of chemical.
+They found low level of chemicals.
+-
+This don't harm.
+This doesn't harm.
+This does not harm.
+-
+This don't harm on the health issue.
+This doesn't cause health issues.
+-
+It affects to the mental health.
+It affects mental health.
+-
+The appointment is confirm.
+The appointment is confirmed.
+-
+She need to send me the list.
+She needs to send me the list.
+-
+Lisa friend is nice.
+Lisa's friend is nice.
+-
+We meet at Peter house.
+We meet at Peter's house.
+-
+Two house owner were there.
+Two house owners were there.
+-
+He enter the leap seven.
+He enters the leap seven.
+-
+You want to play a bit?
+Do you want to play a bit?
+-
+They should go and check with GP.
+They should go and check with the GP.
+They should go and check with a GP.
+They should go and check with their GP.
+-
+I found use this is easier.
+I found using this is easier.
+-
+We can practice while he talk to grandma and grandma.
+We can practice while he is talking to grandma and grandma.
+We can practice while he talks to grandma and grandma.
+-
+The shop sale the sterile sand.
+The shop sells sterile sand.
+The shop sells the sterile sand.
+-
+We might can not do this.
+We might not do this.
+We might not be able to do this.
+We can not do this.
+We probably can not do this.
+-
+Should they go hiking? She doesn't not recommend to people who are not good in walking.
+Should they go hiking? She doesn't recommend it to people who are not good at walking.
+-
+I have 3 shop in my mind too.
+I have 3 shops in my mind, too.
+-
+I need to check available.
+I need to check the availability.
+-
+It is good that we have a pre-order for yesterday.
+It is good that we had a pre-order for yesterday.
+-
+It's not look ugly.
+It doesn't look ugly.
+It does not look ugly.
+-
+When you are not water the Thai basil for three days, it dries out.
+When you do not water the Thai basil for three days, it dries out.
+If you do not water the Thai basil for three days, it dries out.
+-
+It's look great!
+It looks great!
+-
+When he saw Peter ate food, he got big eyes.
+When he saw how Peter ate food, he got big eyes.
+When he saw Peter eating food, he got big eyes.
+-
+He started chew.
+He started chewing.
+He started to chew.
+-
+The government have decided to increase taxes.
+The government has decided to increase taxes.
+-
+There is a study about rising sea level.
+There is a study about rising sea levels.
+There is a study about the rising sea level.
+-
+What the government need to do is, to decrease taxes.
+What the government needs to do is, to decrease taxes.
+-
+The sea level might going up further more than now.
+The sea level might go up further than now.
+-
+It goods.
+It's good.
+It is good.
+-
+It's fit.
+It fits.
+-
+It's smell.
+It smells.
+-
+The certificate need to be copied.
+The certificate needs to be copied.
+-
+Oh, my phone hang!
+Oh, my phone hangs!
+-
+Sorry, my phone was hang!
+Sorry, my phone hung!
+-
+I'm enjoy the sun.
+I enjoy the sun.
+I'm enjoying the sun.
+I am enjoying the sun.
+-
+I don't want study.
+I don't want to study.
+-
+The government pay for that.
+The government pays for that.
+-
+He fells asleep.
+He falls asleep.
+He fell asleep.
+-
+He cannot cooks.
+He cannot cook.
+-
+He could not did it.
+He could not do it.
+-
+You want go to the zoo?
+Do you want to go to the zoo?
+-
+He lived in UK for 20 years.
+He lived in the UK for 20 years.
+-
+I do not know where the key is; did you remember?
+I do not know where the key is; do you remember?
+-
+I not went to bed early yesterday.
+I did not go to bed early yesterday.
+-
+I could not figured this out.
+I could not figure this out.
+I can not figure this out.
+-
+All the shapes he draws is really cool.
+All the shapes he draws are really cool.
+-
+The house was decorate very well.
+The house was decorated very well.
+-
+It was nice painted.
+It was nicely painted.
+-
+They comes out and pinch him!
+They come out and pinch him!
+-
+Could you grated carrots, please?
+Could you grate carrots, please?
+Could you grate the carrots, please?
+Could you grate some carrots, please?
+-
+I can do deliver tomorrow morning.
+I can deliver tomorrow morning.
+-
+Even I did only one dive, I am happy.
+Even if I did only one dive, I am happy.
+-
+She told me about her goggles.
+She told me something about her goggles.
+She told me the story about her goggles.
+-
+She said, she could not remove the water out from the goggle.
+She said, she could not remove the water from the goggles.
+She said, she could not remove the water out of the goggles.
+-
+After the COVID, the students is increasing.
+Since COVID, the number of Thai students has been increasing.
+-
+I have ordered vitamin online.
+I have ordered vitamins online.
+-
+I really try hard but I couldn't.
+I really try hard but I can't.
+I really try hard but I cannot.
+I really try hard but I can not.
+I really tried hard but I couldn't.
+-
+It was estimated to deliver yesterday.
+It was estimated to be delivered yesterday.
+-
+It show on my email.
+My email shows it.
+-
+It's took them nearly four days.
+It took them nearly four days.
+-
+The deliver might take estimate to be longer than usual.
+The delivery might take longer than usual.
+The delivery is estimated to take longer than usual.
+-
+My parcel should arrive yesterday, but still at the depot.
+My parcel should have arrived yesterday, but is still at the depot.
+My parcel should have arrived yesterday, but was still at the depot.
+My parcel should have arrived yesterday, but it is still at the depot.
+My parcel should have arrived yesterday, but it was still at the depot.
+-
+Yesterday, I want to ordered shampoo.
+Yesterday, I wanted to order shampoo.
+-
+All of your parcel has sent out.
+All of your parcels have been sent out.
+-
+We not have shampoo.
+We do not have shampoo.
+-
+Yesterday, I got my new shoes, even I order one day after the t-shirt.
+Yesterday, I got my new shoes, even if I ordered them one day after the t-shirt.
+Yesterday, I got my new shoes, although I ordered them one day after the t-shirt.
+-
+I just waiting for my shampoo and my cream.
+I'm just waiting for my shampoo and my cream.
+I am just waiting for my shampoo and my cream.
+-
+The students is increasing more and more of the Thai students than foreigner students.
+The number of Thai students is increasing beyond those of foreign students.
+The number of Thai students is increasing beyond the number of foreign students.
+-
+I think the pant is still too loose.
+I think the pants are still too loose.
+-
+I greeting to Ryan.
+I greeted Ryan.
+-
+She needs to tell what impact her feelings.
+She needs to tell what impacts her feelings.
+-
+My mom hate that, too.
+My mom hates that, too.
+-
+I might get the buns because Cliff have made that.
+I might get the buns because Cliff has made them.
+-
+We need to pack the cake because of the ant.
+We need to pack the cake because of the ants.
+-
+Is that avoid ant?
+Does that keep the ants away?
+-
+The number of police car in New Zealand is surprisingly low.
+The number of police cars in New Zealand is surprisingly low.
+-
+The number of tomato orchard exceeds the number of lemon orchard.
+The number of tomato orchards exceeds the number of lemon orchards.
+-
+Nobody know how many penguin lives in Antarctica.
+Nobody knows how many penguins live in Antarctica.
+-
+The number of kids with obesity have been increasing substantially.
+The number of kids with obesity has been increasing substantially.
+-
+The person who smell the fart first is always responsible.
+The person who smells the fart first is always responsible.
+-
+Everyone who like kiwi should eat as much as they can.
+Everyone who likes kiwi should eat as much as they can.
+-
+She wear so many clothes, she must be sweating!
+She wears so many clothes, she must be sweating!
+-
+He tired.
+He is tired.
+-
+He is obesity.
+He is obese.
+-
+He so tired.
+He is so tired.
+He was so tired.
+-
+We are at Sumner.
+We are in Sumner.
+-
+One of the police officer had a pink hat.
+One of the police officers had a pink hat.
+-
+Tomorrow you can fed him.
+Tomorrow you can feed him.
+-
+Tomorrow at seven he woke up.
+Tomorrow at seven he wakes up.
+Tomorrow at seven he will wake up.
+-
+Today, while I drive during the morning when I went for shopping, ...
+Today, while I drove in the morning when I went for shopping, ...
+-
+I checked about the ink for stamp.
+I checked about the ink for stamps.
+I checked about the ink for the stamp.
+-
+If she want to work like a project, it might disturb the study time.
+If she wants to work on a project, it might disturb the study time.
+-
+This come up because we had an issue.
+This comes up because we had an issue.
+This came up because we had an issue.
+-
+I have you as a consult all the time.
+I have you as a consultant all the time.
+-
+We not have so much time.
+We do not have so much time.
+-
+Some day I get it right, and some day I didn't get it right.
+Some days I get it right, and some days I don't get it right.
+Some days I get it right, and some day I did not get it right.
+-
+Somebody make the routine for me already.
+Somebody makes the routine for me already.
+Somebody made the routine for me already.
+-
+Another one is eleven dollar.
+Another one is eleven dollars.
+-
+The author talked in the training about how he manages his life.
+The author talks in the training about how he manages his life.
+-
+You focus only five priorities.
+You focus on only five priorities.
+You focus only on five priorities.
+-
+You have like to-do list.
+You have a to-do list.
+-
+This thing help you with you get overwhelm.
+This thing helps you with not getting overwhelmed.
+-
+She make a note.
+She took notes.
+She took a note.
+-
+She is really bad about planning day plan.
+She is really bad at planning day plans.
+She is really bad at planning a day plan.
+-
+Your muscle is like 'oh I have energy'.
+Your muscle has energy.
+-
+I tol you.
+I told you.
+-
+My color change a little bit.
+My color has changed a little bit.
+My color changed a little bit.
+-
+While we were stooding there, five buses passed by.
+While we were standing there, five buses passed by.
+-
+During he was crying, he stamped his feet.
+While he was crying, he stamped his feet.
+-
+Blue color make you feel less hungry.
+Blue color makes you feel less hungry.
+-
+'Work from hotel' - that what they call.
+'Work from hotel' - that's what they call it.
+'Work from hotel' - that's how they call it.
+-
+He call 'Neptun'.
+He is called 'Neptun'.
+He was called 'Neptun'.
+He's called 'Neptun'.
+-
+That make you feel full more than anything else.
+That makes you feel fuller than anything else.
+-
+That's why I steam it boy it.
+That's why I steam or boil it.
+-
+That's why I start make soup.
+That's why I start making soup.
+-
+I know why you stopped eat.
+I know why you stopped eating.
+I know why you stopped to eat.
+-
+It was so hot during I was in bed.
+It was so hot while I was in bed.
+-
+Awesome, I can imagine many location!
+Awesome, I can imagine many locations!
+-
+Interrupt the flow.
+It interrupts the flow.
+-
+I have share it.
+I have shared it.
+-
+Did you hear me? - Yes, I hear you.
+Did you hear me? - Yes, I have heard you.
+Did you hear me? - Yes, I heard you.
+Did you hear me? - Yes, I did.
+-
+This lead to gentrification.
+This leads to gentrification.
+-
+Who had been at the shop on Thursday? - That is Ellen.
+Who had been at the shop on Thursday? - That was Ellen.
+-
+The one who deep clean the shop ...
+The one who deep cleaned the shop ...
+The one who deep cleans the shop ...
+-
+The root grow.
+The roots grow.
+The root grows.
+-
+We need the key. Did you remember where it is?
+We need the key. Do you remember where it is?
+-
+This inevitably lead to failure.
+This inevitably leads to failure.
+This inevitably led to failure.
+-
+Why this relate to social media?
+How does this relate to social media?
+Why does this relate to social media?
+-
+He should has eaten before he left.
+He should have eaten before he left.
+-
+I didn't surprise so much.
+I wasn't so much surprised.
+-
+What happen with your hair?
+What happened with your hair?
+-
+I just want to stood here.
+I just wanted to stand here.
+-
+She forgot the 'ed' when talks about the past.
+She forgets the 'ed' when talking about the past.
+-
+Barky has fold skin.
+Barky has folded skin.
+-
+We have problem on Tuesday.
+We had a problem on Tuesday.
+-
+We shopping.
+We went shopping.
+-
+He get it out.
+He got it out.
+He gets it out.
+-
+It was cold and rain.
+It was cold and rainy.
+-
+We saw Ali and Jenny neighbour.
+We saw Ali and Jenny's neighbour.
+-
+When we were at the small road, we need to sit her first.
+When we were at the small road, we needed to let her sit first.
+-
+When we reached at the beach, ...
+When we reached the beach, ...
+-
+I packed the pooed.
+I packed the poo.
+-
+While we walked along the beach, I throw it again and again.
+While we walked along the beach, I threw it again and again.
+-
+I did not know where to sleep in Jann and Angela house.
+I did not know where to sleep in Jann and Angela's house.
+-
+She just want to drop her stuff off.
+She just wanted to drop her stuff off.
+She just wants to drop her stuff off.
+-
+When Oscar know that Peter could not throw the ball so far, ...
+When Oscar discovered that Peter could not throw the ball so far, ...
+-
+Mia taller than Mario.
+Mia is taller than Mario.
+-
+When she is excited, she put her nose in the air, and Leslie hate it.
+When she is excited, she put her nose in the air, and Leslie hates it.
+-
+This dog is quite energy!
+This dog is quite energetic!
+-
+Anna she alone.
+Anna is alone.
+-
+I could not, because it was rain.
+I could not because it rained.
+I could not because it was rainy.
+-
+Gina open the door.
+Gina opened the door.
+Gina opens the door.
+-
+I observed how they played to each other.
+I observed how they played with each other.
+-
+That's impress, right?
+That's impressive, right?
+-
+He didn't part of any government.
+He isn't a member of any political party.
+-
+His team think about the project.
+His team thinks about the project.
+-
+You want to came in to surprise us!
+You want to come in to surprise us!
+You wanted to come in to surprise us!
+-
+He didn't honest.
+He wasn't honest.
+-
+He cheated by bribe people.
+He cheated by bribing people.
+-
+We voted to this guy.
+We voted for this guy.
+-
+Oh no, they gonna cheated again!
+Oh no, they gonna cheat again!
+-
+He make them look really dumb!
+He makes them look really dumb!
+He made them look really dumb!
+-
+Even it is still good, my gut did not get along with it.
+Even if it is still good, my gut did not get along with it.
+-
+Ingrid hair is colorful.
+Ingrid's hair is colorful.
+-
+When I get the camera out, he put his finger in his mouth.
+When I got the camera out, he put his finger in his mouth.
+-
+She wants to invest in share.
+She wants to invest in shares.
+-
+He talk really nice.
+He talks really nice.
+-
+She have asked to close the shop one day per week.
+She has asked to close the shop one day per week.
+She had asked to close the shop one day per week.
+-
+I have not tell her.
+I have not told her.
+-
+You so pale.
+You are so pale
+-
+I have reheat the food.
+I have reheated the food.
+-
+I want to ask Sabrina how she wash the outdoor clothes.
+I want to ask Sabrina how she washes the outdoor clothes.
+-
+We not need to do that.
+We do not need to do that.
+-
+She can talks about it.
+She can talk about it.
+-
+This is the childrens' room.
+This is the children's room.
+-
+This is the adult's room. They are all inside already.
+This is the adults' room. They are all inside already.
+-
+He excited.
+He was excited.
+-
+She did not paid money.
+She did not pay money.
+-
+He woke up and cry again.
+He woke up and cried again.
+-
+There were many company.
+There were many companies.
+-
+He watch the tv.
+He watches the TV.
+-
+Have anyone registered online?
+Has anyone registered online?
+-
+I have took the money to the bank.
+I have taken the money to the bank.
+-
+He play really well with the other girl.
+He played really well with the girls.
+He played really well with the girl.
+-
+She told stories and we play in the play corner afterward.
+She told stories and we played in the play corner afterward.
+-
+He talked and walk to the woman.
+He talked and walked to the woman.
+-
+She already walk at the beach.
+She went for a walk at the beach already.
+-
+He did not went to school.
+He did not go to school.
+-
+We did not happy.
+We were not happy.
+-
+Jojo was slept.
+Jojo slept.
